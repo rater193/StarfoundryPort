@@ -1,0 +1,12 @@
+[
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "gravityMultiplier" : 0.0 } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "bounceFactor" : 1.0 } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "maxMovementPerStep" : 0.4 } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "groundSlideMovementEnabled" : false } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "collisionPoly" : [] } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "ignorePlatformCollision" : true } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "groundFriction" : 0 } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "airFriction" : 0 } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "liquidFriction" : 0 } },
+  { "op" : "add", "path" : "/nocollision/-", "value" : { "speedLimit" : null } }
+]

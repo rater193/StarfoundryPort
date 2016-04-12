@@ -1,0 +1,11 @@
+{
+  "materialId" : 113,
+  "materialName" : "invisitile",
+  "frames" : "invisitile.png",
+  "particleColor" : [0, 0, 0, 0],
+  "variants" : 1,
+  "shortdescription" : "Invisible Tile",
+  "description" : "What am I looking at, here?",
+  "category": "materials",
+  "health" : 1
+}
