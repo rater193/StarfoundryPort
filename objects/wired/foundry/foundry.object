@@ -1,7 +1,7 @@
 {
   "objectName" : "foundry",
   "rarity" : "Legendary",
-  "objectType" : "wire",
+  "colonyTags" : ["wired"],
   "printable" : false,
 
   "interactAction" : "OpenCraftingInterface",
