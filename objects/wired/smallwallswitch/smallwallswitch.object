@@ -1,7 +1,7 @@
 {
   "objectName" : "smallwallswitch",
   "rarity" : "Common",
-  "objectType" : "wire",
+  "colonyTags" : ["wired"],
   "description" : "Flippin' awesome.",
   "shortdescription" : "Small Wall Switch",
   "race" : "generic",

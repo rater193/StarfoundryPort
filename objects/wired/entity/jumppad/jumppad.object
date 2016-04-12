@@ -1,7 +1,7 @@
 {
   "objectName" : "jumppad",
   "rarity" : "Common",
-  "objectType" : "wire",
+  "colonyTags" : ["wired"],
 
   "category" : "wire",
   "price" : 350,

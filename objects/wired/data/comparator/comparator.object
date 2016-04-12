@@ -1,7 +1,7 @@
 {
   "objectName" : "comparator",
   "rarity" : "Common",
-  "objectType" : "wire",
+  "colonyTags" : ["wired"],
   "description" : "Given two inputs, the Comparator displays symbols: <, >, or =.",
   "shortdescription" : "Comparator",
   "race" : "generic",

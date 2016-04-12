@@ -1,6 +1,6 @@
 {
   "objectName" : "activator",
-  "objectType" : "wire",
+  "colonyTags" : ["wired"],
   "printable" : false,
   "rarity" : "Common",
   "price" : 300,

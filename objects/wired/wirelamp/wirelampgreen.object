@@ -1,6 +1,6 @@
 {
   "objectName" : "wirelampgreen",
-  "objectType" : "wire",
+  "colonyTags" : ["wired"],
   "printable" : false,
   "rarity" : "Common",
   "category" : "light",

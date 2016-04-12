@@ -1,7 +1,7 @@
 {
   "objectName" : "entityscanner",
   "rarity" : "Common",
-  "objectType" : "wire",  
+  "colonyTags" : ["wired"],
   "description" : "Collects useful data about entities.",
   "shortdescription" : "Entity Scanner",
   "race" : "generic",

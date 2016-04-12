@@ -1,11 +1,11 @@
 {
   "objectName" : "relay",
-  "objectType" : "wire",
+  "colonyTags" : ["wired"],
   "rarity" : "Common",
   "description" : "Transfers energy between devices within range.",
   "shortdescription" : "Energy Relay",
   "race" : "generic",
-  "category" : "wire",
+  "colonyTags" : ["wired"],
   "price" : 1000,
   "printable" : false,
 

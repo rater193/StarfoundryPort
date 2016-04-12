@@ -5,7 +5,7 @@
   "description" : "A battery that requires recharging after use.",
   "shortdescription" : "Full Battery",
   "race" : "generic",
-  "category" : "wire",
+  "colonyTags" : ["wired"],
   "price" : 1000,
   "printable" : false,
 
